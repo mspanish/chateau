@@ -1,0 +1,69 @@
+{
+  "name": "chateau",
+  "version": "0.3.17",
+  "description": "Data explorer for RethinkDB",
+  "main": "app.js",
+  "directories": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neumino/chateau.git"
+  },
+  "keywords": [
+    "rethinkdb",
+    "dataexplorer"
+  ],
+  "author": {
+    "name": "Michel Tu",
+    "email": "orphee@gmail.com",
+    "url": "http://justonepixel.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neumino/chateau/issues"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "= 1.0.2",
+    "rethinkdb": ">= 1.12.0-0",
+    "optimist": " >= 0.6.0",
+    "stream": ">= 0.0.1"
+  },
+  "devDependencies": {
+    "karma-script-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma": "~0.10.1",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-ng-scenario": "~0.1.0"
+  },
+  "bin": {
+    "chateau": "./bin/chateau"
+  },
+  "gitHead": "7f5545fbeb69d8143a928ff6bcd1f4fa23dac7f0",
+  "homepage": "https://github.com/neumino/chateau#readme",
+  "_id": "chateau@0.3.17",
+  "_shasum": "4542890fe6e14251a241d616af98890ed2008f29",
+  "_from": "chateau@latest",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "7.10.0",
+  "_npmUser": {
+    "name": "neumino",
+    "email": "orphee@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "neumino",
+      "email": "orphee@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "4542890fe6e14251a241d616af98890ed2008f29",
+    "tarball": "https://registry.npmjs.org/chateau/-/chateau-0.3.17.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/chateau-0.3.17.tgz_1495947822534_0.18436658778227866"
+  },
+  "_resolved": "https://registry.npmjs.org/chateau/-/chateau-0.3.17.tgz"
+}
